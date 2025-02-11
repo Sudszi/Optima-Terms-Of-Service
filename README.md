@@ -1,0 +1,1 @@
+Optima is an all-in-one Discord bot that enhances your server with a variety of features. It welcomes new members, sends farewells, plays music, and filters offensive language. With built-in moderation tools, leveling, reputation systems, polls, and weather updates, Optima keeps your community engaged, safe, and organized for a more interactive experience.
