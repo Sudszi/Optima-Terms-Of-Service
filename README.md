@@ -16,6 +16,7 @@ Polls and Voting: Facilitates creating and managing polls within your community.
 Weather Updates: Provides users with weather information based on location.
 
 3. Bot Usage
+
 3.1 Eligibility
 To use the Bot, you must have administrative permissions in a Discord server and comply with Discord's Terms of Service and Community Guidelines. By using the Bot, you represent and warrant that you are authorized to use the Bot in your server.
 
